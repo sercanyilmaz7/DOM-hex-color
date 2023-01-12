@@ -1,7 +1,6 @@
 body {
   display: flex;
   justify-content: center;
-  align-items: center;
   height: 100vh;
 }
 
@@ -23,5 +22,5 @@ div {
 
   width: fit-content;
   height: 50%;
-  margin-bottom: 5%;
+  margin-top:5%;
 }
