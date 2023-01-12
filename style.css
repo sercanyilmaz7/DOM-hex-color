@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+p {
+  text-align: center;
+  font-size: 5vh;
+}
+
+input {
+  width: 8vh;
+  height: 8vh;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: fit-content;
+  height: 50%;
+  margin-bottom: 5%;
+}
